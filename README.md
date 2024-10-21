@@ -1,4 +1,4 @@
-# ROAD-ACCIDENET-DASHBOARD
+# Introduction
 KPI - Key Performance Indicators related to road accidents.
 Dashboard - The dashboard view for presenting insights.
 Data analysis sheet - Possibly contains detailed data analysis.
@@ -21,7 +21,7 @@ Insights into accident rates on different types of roads (e.g., highways, rural 
 Visual Insights:
 Use of visuals such as tree maps and donut charts to break down accident data by categories like vehicle type, time of day, or accident severity, making it easy to identify significant factors.
 
-# Road Accident Dashboard Project Explanation
+# Key Responsibilities:
 1. Project Overview:
 The Road Accident Dashboard Project aims to provide an interactive and data-driven overview of road accidents, highlighting key trends, high-risk areas, and patterns that can inform safety measures and traffic management. The data is visualized through an easy-to-understand dashboard that allows users to monitor accidents over time and across different categories such as road types, severity, and vehicle involvement.
 
